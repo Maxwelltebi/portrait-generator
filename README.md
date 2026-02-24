@@ -4,19 +4,6 @@ A deep learning web application that transforms human photos into artistic portr
 
 **Live App**: https://portrait-generator.streamlit.app/
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Portrait Styles](#portrait-styles)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
-- [References](#references)
-
----
 
 ## Overview
 
@@ -173,16 +160,4 @@ To deploy your own instance:
 | huggingface_hub       | Model weight download and caching  |
 | numpy                 | Numerical operations               |
 
----
 
-## References
-
-- Qin, X., Zhang, Z., Huang, C., Dehghan, M., Zaiane, O., & Jagersand, M. (2020). [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007). Pattern Recognition.
-- Original U2-Net implementation: [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)
-- Guided project notebook: IBM Skills Network
-
----
-
-## License
-
-MIT License
