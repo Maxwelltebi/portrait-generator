@@ -28,3 +28,6 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local documentation prompt
+/repo_format.md
